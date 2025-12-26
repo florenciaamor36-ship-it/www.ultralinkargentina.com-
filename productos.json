@@ -1,0 +1,111 @@
+{
+  "categorias": [
+    { "id": "streaming_ars", "nombre": "Streaming (Pesos)", "icono": "fa-tv" },
+    { "id": "usdt_binance", "nombre": "Binance (USDT)", "icono": "fa-coins" },
+    { "id": "vps_section", "nombre": "Servidores VPS", "icono": "fa-server" },
+    { "id": "iptv_panels", "nombre": "Paneles IPTV", "icono": "fa-play-circle" }
+  ],
+  "productos": [
+    /* CATEGORÍA: PESOS ARS */
+    { "id": 1, "nombre": "🍿 NETFLIX 4K", "precio": 5000, "categoria": "streaming_ars", "descripcion": "4K Ultra HD, sonido envolvente, sin anuncios. Perfil individual.", "badge": "ARS" },
+    { "id": 2, "nombre": "📆 AMAZON PRIME VIDEO", "precio": 2500, "categoria": "streaming_ars", "descripcion": "Amazon Originals, series y películas de Hollywood. Perfil individual.", "badge": "ARS" },
+    { "id": 3, "nombre": "🪫 CAPCUT", "precio": 7000, "categoria": "streaming_ars", "descripcion": "Plantillas y efectos profesionales. Perfil individual.", "badge": "ARS" },
+    { "id": 4, "nombre": "🎟️ VIX PREMIUM", "precio": 2500, "categoria": "streaming_ars", "descripcion": "Series, películas y contenido en vivo. Perfil individual.", "badge": "ARS" },
+    { "id": 5, "nombre": "🏞️ PARAMOUNT", "precio": 2000, "categoria": "streaming_ars", "descripcion": "Series y películas de Hollywood. Perfil individual.", "badge": "ARS" },
+    { "id": 6, "nombre": "🛸 MAX PLATINO", "precio": 2500, "categoria": "streaming_ars", "descripcion": "Contenido de HBO Max. Perfil individual.", "badge": "ARS" },
+    { "id": 7, "nombre": "💊 YOUTUBE PREMIUM", "precio": 2300, "categoria": "streaming_ars", "descripcion": "Sin anuncios y YouTube Originals. Perfil individual.", "badge": "ARS" },
+    { "id": 8, "nombre": "💊 YOUTUBE PREMIUM + MUSIC", "precio": 3000, "categoria": "streaming_ars", "descripcion": "YouTube sin anuncios + Música. Perfil individual.", "badge": "ARS" },
+    { "id": 9, "nombre": "🛍️ SPOTIFY PREMIUM", "precio": 3500, "categoria": "streaming_ars", "descripcion": "Música sin anuncios, millones de canciones. Perfil individual.", "badge": "ARS" },
+    { "id": 10, "nombre": "🏁 APPLETV / MLS", "precio": 4000, "categoria": "streaming_ars", "descripcion": "Series, películas y fútbol MLS. Perfil individual.", "badge": "ARS" },
+    { "id": 11, "nombre": "🏮 CRUNCHYROLL", "precio": 2100, "categoria": "streaming_ars", "descripcion": "Animes con subtítulos en español. Perfil individual.", "badge": "ARS" },
+    { "id": 12, "nombre": "🧌 DISNEY PLUS", "precio": 4300, "categoria": "streaming_ars", "descripcion": "Disney, Pixar, Marvel y Star Wars. Perfil individual.", "badge": "ARS" },
+    { "id": 13, "nombre": "🧑🏻‍🎨 CANVA PRO", "precio": 3000, "categoria": "streaming_ars", "descripcion": "Diseño gráfico, plantillas y elementos. Perfil individual.", "badge": "ARS" },
+    { "id": 14, "nombre": "⚽ FLOW FULL", "precio": 5000, "categoria": "streaming_ars", "descripcion": "Series y películas de Hollywood. Perfil individual.", "badge": "ARS" },
+    { "id": 15, "nombre": "🎼 TIDAL MUSIC", "precio": 2300, "categoria": "streaming_ars", "descripcion": "Música en alta calidad. Perfil individual.", "badge": "ARS" },
+    { "id": 16, "nombre": "🌡️ CHAT GPT", "precio": 0, "categoria": "streaming_ars", "descripcion": "IA avanzada. Consultar disponibilidad. Perfil individual.", "badge": "CONSULTAR" },
+    { "id": 17, "nombre": "🧭 PICSART", "precio": 0, "categoria": "streaming_ars", "descripcion": "Edición de fotos y contenido visual. Perfil individual.", "badge": "CONSULTAR" },
+
+    /* CATEGORÍA: USDT BINANCE - SERVICIOS */
+    { "id": 101, "nombre": "Netflix extra (individual) a dominio", "precio": 5.5, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 102, "nombre": "Netflix premium", "precio": 3.2, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 103, "nombre": "Netflix premium renovación", "precio": 3, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 104, "nombre": "YouTube premium + Music (Promo) a dominio", "precio": 3.75, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 105, "nombre": "YouTube premium", "precio": 4, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 106, "nombre": "Spotify premium (Promo) a dominio", "precio": 2.9, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 107, "nombre": "Disney premium (Promo) a dominio", "precio": 2.1, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 108, "nombre": "Flujotv (Promo) a dominio", "precio": 2.1, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 109, "nombre": "Oleadatv (Promo) a dominio", "precio": 2, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 110, "nombre": "Prime video (Promo) a dominio", "precio": 2, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 111, "nombre": "Max platino (Promo) a dominio", "precio": 1.9, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 112, "nombre": "Crunchyroll megafan (Promo) a dominio", "precio": 1.6, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 113, "nombre": "Paramount plus", "precio": 1.75, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 114, "nombre": "Appletv", "precio": 1.7, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 115, "nombre": "Universal", "precio": 1.7, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 116, "nombre": "Vix premium", "precio": 1.5, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 117, "nombre": "Canvas", "precio": 1.5, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 118, "nombre": "Chatgpt plus", "precio": 5, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 119, "nombre": "Géminis IA", "precio": 4.5, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 120, "nombre": "Capcut pro", "precio": 4, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 121, "nombre": "Duolingo", "precio": 2.5, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 122, "nombre": "Pornohub", "precio": 2.3, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 123, "nombre": "Viki raykuten plus", "precio": 1.8, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+    { "id": 124, "nombre": "Surfshark", "precio": 1.5, "categoria": "usdt_binance", "sub": "Servicios", "badge": "USDT" },
+
+    /* USDT: COMBOS */
+    { "id": 125, "nombre": "Netflix + Vix", "precio": 3.4, "categoria": "usdt_binance", "sub": "Combos", "badge": "USDT" },
+    { "id": 126, "nombre": "Netflix + Canvas", "precio": 3.4, "categoria": "usdt_binance", "sub": "Combos", "badge": "USDT" },
+    { "id": 127, "nombre": "Netflix + Appletv", "precio": 3.6, "categoria": "usdt_binance", "sub": "Combos", "badge": "USDT" },
+    { "id": 128, "nombre": "Netflix + Crunchyroll", "precio": 3.6, "categoria": "usdt_binance", "sub": "Combos", "badge": "USDT" },
+    { "id": 129, "nombre": "Netflix + Disney", "precio": 4, "categoria": "usdt_binance", "sub": "Combos", "badge": "USDT" },
+    { "id": 130, "nombre": "Netflix + Oleadatv", "precio": 4, "categoria": "usdt_binance", "sub": "Combos", "badge": "USDT" },
+    { "id": 131, "nombre": "Netflix + Universal", "precio": 4, "categoria": "usdt_binance", "sub": "Combos", "badge": "USDT" },
+    { "id": 132, "nombre": "Netflix + Max", "precio": 4, "categoria": "usdt_binance", "sub": "Combos", "badge": "USDT" },
+
+    /* USDT: PROMOS */
+    { "id": 133, "nombre": "Canvas+Vix+Crunchy+Paramount", "precio": 3, "categoria": "usdt_binance", "sub": "Promos", "badge": "USDT" },
+    { "id": 134, "nombre": "Canvas+Vix+Crunchy+Apple", "precio": 3, "categoria": "usdt_binance", "sub": "Promos", "badge": "USDT" },
+    { "id": 135, "nombre": "Canvas+Vix+Crunchy+Max", "precio": 3, "categoria": "usdt_binance", "sub": "Promos", "badge": "USDT" },
+    { "id": 136, "nombre": "Canvas+Vix+Crunchy+Disney", "precio": 3, "categoria": "usdt_binance", "sub": "Promos", "badge": "USDT" },
+    { "id": 137, "nombre": "Canvas+Vix+Crunchy+Oleadatv", "precio": 3, "categoria": "usdt_binance", "sub": "Promos", "badge": "USDT" },
+    { "id": 138, "nombre": "Canvas+Vix+Crunchy+Universal", "precio": 3, "categoria": "usdt_binance", "sub": "Promos", "badge": "USDT" },
+    { "id": 139, "nombre": "Canvas+Vix+Crunchy+Prime video", "precio": 3, "categoria": "usdt_binance", "sub": "Promos", "badge": "USDT" },
+    { "id": 140, "nombre": "Universal + Surfshark", "precio": 2, "categoria": "usdt_binance", "sub": "Promos", "badge": "USDT" },
+
+    /* USDT: JUEGOS Y GIFT CARDS */
+    { "id": 141, "nombre": "Recargas Juegos (FF, Roblox, COD, FC, etc)", "precio": 0, "categoria": "usdt_binance", "sub": "Juegos", "descripcion": "Consultar precios por WhatsApp.", "badge": "JUEGOS" },
+    { "id": 142, "nombre": "Gift Cards (Xbox, PSN, Nintendo, etc)", "precio": 0, "categoria": "usdt_binance", "sub": "Gift Cards", "descripcion": "Consultar precios por WhatsApp.", "badge": "CARDS" },
+
+    /* CATEGORÍA: VPS */
+    { "id": 201, "nombre": "VPS Ultra Gaming 1x2", "precio": 30000, "categoria": "vps_section", "descripcion": "1 vCPU Xeon E5-2630 | 2GB RAM | 50GB SSD | 100 Mbps", "badge": "GAMING" },
+    { "id": 202, "nombre": "VPS Ultra Gaming 2x2", "precio": 35000, "categoria": "vps_section", "descripcion": "2 vCPU Xeon E5-2650 | 2GB RAM | 80GB NVMe | 250 Mbps", "badge": "GAMING" },
+    { "id": 203, "nombre": "VPS Ultra Gaming 4x2", "precio": 40000, "categoria": "vps_section", "descripcion": "4 vCPU Xeon Gold 6212U | 2GB RAM | 100GB NVMe | 500 Mbps", "badge": "GAMING" },
+    { "id": 204, "nombre": "VPS Ultra Web 1x1", "precio": 20000, "categoria": "vps_section", "descripcion": "1 vCPU Xeon E3-1230 | 1GB RAM | 10GB SSD | 50 Mbps", "badge": "WEB" },
+    { "id": 205, "nombre": "VPS Ultra Web 2x2", "precio": 38000, "categoria": "vps_section", "descripcion": "2 vCPU Xeon E5-2640 | 2GB RAM | 30GB NVMe | 300 Mbps", "badge": "WEB" },
+    { "id": 206, "nombre": "VPS Buenos Aires Básico", "precio": 32614, "categoria": "vps_section", "descripcion": "i9-14300K | 1GB RAM DDR5 | 10GB NVMe | Anti-DDoS", "badge": "BUE" },
+    { "id": 207, "nombre": "VPS Buenos Aires Standard", "precio": 65227, "categoria": "vps_section", "descripcion": "2 vCPU i9-14300K | 4GB RAM DDR5 | 50GB NVMe | Anti-DDoS", "badge": "BUE" },
+    { "id": 208, "nombre": "VPS Buenos Aires Advanced", "precio": 130455, "categoria": "vps_section", "descripcion": "4 vCPU i9-14300K | 8GB RAM DDR5 | 100GB NVMe | Anti-DDoS", "badge": "BUE" },
+    { "id": 209, "nombre": "VPS Brasil 2x2 IP Dedicada", "precio": 35000, "categoria": "vps_section", "descripcion": "2 vCPU AMD EPYC | 2GB RAM | 100GB NVMe | 1 Gbps", "badge": "BR" },
+    { "id": 210, "nombre": "VPS Brasil 4x4 IP Dedicada", "precio": 70000, "categoria": "vps_section", "descripcion": "4 vCPU AMD EPYC | 4GB RAM | 200GB NVMe | 2 Gbps", "badge": "BR" },
+    { "id": 211, "nombre": "🌐 Dominio CloudFront", "precio": 28000, "categoria": "vps_section", "descripcion": "CDN alta velocidad (30 días). Compatible Claro/Personal.", "badge": "RED" },
+
+    /* CATEGORÍA: PANELES IPTV - NEBULA */
+    { "id": 301, "nombre": "NEBULA IPTV - 10 Créditos", "precio": 13000, "categoria": "iptv_panels", "sub": "NEBULA", "badge": "PANEL" },
+    { "id": 302, "nombre": "NEBULA IPTV - 20 Créditos", "precio": 24000, "categoria": "iptv_panels", "sub": "NEBULA", "badge": "PANEL" },
+    { "id": 303, "nombre": "NEBULA IPTV - 30 Créditos", "precio": 33000, "categoria": "iptv_panels", "sub": "NEBULA", "badge": "PANEL" },
+    { "id": 304, "nombre": "NEBULA IPTV - 40 Créditos", "precio": 36000, "categoria": "iptv_panels", "sub": "NEBULA", "badge": "PANEL" },
+    { "id": 305, "nombre": "NEBULA IPTV - 100 Créditos", "precio": 56000, "categoria": "iptv_panels", "sub": "NEBULA", "badge": "PANEL" },
+    { "id": 306, "nombre": "NEBULA IPTV - 200 Créditos", "precio": 127000, "categoria": "iptv_panels", "sub": "NEBULA", "badge": "PANEL" },
+
+    /* CATEGORÍA: PANELES IPTV - MAGMA */
+    { "id": 307, "nombre": "MAGMA IPTV - 1 Crédito", "precio": 2680, "categoria": "iptv_panels", "sub": "MAGMA", "badge": "PANEL" },
+    { "id": 308, "nombre": "MAGMA IPTV - 10 Créditos", "precio": 14300, "categoria": "iptv_panels", "sub": "MAGMA", "badge": "PANEL" },
+    { "id": 309, "nombre": "MAGMA IPTV - 20 Créditos", "precio": 26900, "categoria": "iptv_panels", "sub": "MAGMA", "badge": "PANEL" },
+    { "id": 310, "nombre": "MAGMA IPTV - 30 Créditos", "precio": 38800, "categoria": "iptv_panels", "sub": "MAGMA", "badge": "PANEL" },
+    { "id": 311, "nombre": "MAGMA IPTV - 40 Créditos", "precio": 45100, "categoria": "iptv_panels", "sub": "MAGMA", "badge": "PANEL" },
+    { "id": 312, "nombre": "MAGMA IPTV - 50 Créditos", "precio": 59800, "categoria": "iptv_panels", "sub": "MAGMA", "badge": "PANEL" },
+    { "id": 313, "nombre": "MAGMA IPTV - 100 Créditos", "precio": 113000, "categoria": "iptv_panels", "sub": "MAGMA", "badge": "PANEL" },
+    { "id": 314, "nombre": "MAGMA IPTV - 200 Créditos", "precio": 211000, "categoria": "iptv_panels", "sub": "MAGMA", "badge": "PANEL" },
+    { "id": 315, "nombre": "MAGMA IPTV - 300 Créditos", "precio": 309000, "categoria": "iptv_panels", "sub": "MAGMA", "badge": "PANEL" },
+    { "id": 316, "nombre": "MAGMA IPTV - 500 Créditos", "precio": 561000, "categoria": "iptv_panels", "sub": "MAGMA", "badge": "PANEL" }
+  ]
+}
